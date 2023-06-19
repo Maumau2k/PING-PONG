@@ -2,3 +2,5 @@
 Fiz esse projeto no curso Dev Samurai, gostei dele, aprendi mais sobre script e gostei de fazer.
 <BR>✔ HTML
 <BR>✔ USO DE SCRIPTY E STYLE 
+se quiser dar uma brincada passe aqui⤵
+<br> https://maumau2k.github.io/PING-PONG/ <br> ¯\_(ツ)_/¯
