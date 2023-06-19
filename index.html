@@ -21,7 +21,7 @@
         gapX = 10
 
       const mouse = { x: 0, y: 0 }
-
+      //objeto campo 
       const field = {
         w: window.innerWidth,
         h: window.innerHeight,
@@ -30,7 +30,7 @@
           canvasCtx.fillRect(0, 0, this.w, this.h)
         },
       }
-
+      //objeto linha
       const line = {
         w: 15,
         h: field.h,
@@ -39,7 +39,7 @@
           canvasCtx.fillRect(field.w / 2 - this.w / 2, 0, this.w, this.h)
         },
       }
-
+      //objeto raquete esquerda
       const leftPaddle = {
         x: gapX,
         y: 0,
@@ -55,7 +55,7 @@
           this._move()
         },
       }
-
+      //objeto raquete direita (computador)
       const rightPaddle = {
         x: field.w - line.w - gapX,
         y: 0,
@@ -79,7 +79,7 @@
           this._move()
         },
       }
-
+      //objeto placar 
       const score = {
         human: 0,
         computer: 0,
@@ -98,7 +98,7 @@
           canvasCtx.fillText(this.computer, field.w / 4 + field.w / 2, 50)
         },
       }
-
+      //objeto bola 
       const ball = {
         x: field.w / 2,
         y: field.h / 2,
