@@ -4,4 +4,4 @@ Fiz esse projeto no curso Dev Samurai, gostei dele, aprendi mais sobre script e 
 <BR>✔ HTML
 <BR>✔ USO DE SCRIPTY E STYLE 
 se quiser dar uma brincada passe aqui⤵
-<br> BONA E LIZ LINDA<br> ¯\_(ツ)_/¯
+<br> <br> ¯\_(ツ)_/¯
